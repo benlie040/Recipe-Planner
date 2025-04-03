@@ -1,0 +1,2092 @@
+{
+    "recipes": [
+        {
+            "name": "Paella",
+            "imageUrl": "/paella.jpg",
+            "ID": "1",
+            "description": "Paella is a traditional Spanish rice dish that combines chicken, seafood, and vegetables. Cooked in a wide, shallow pan, it is known for its rich, smoky flavor and vibrant presentation. Perfect for festive occasions and family gatherings.",
+            "instructions": [
+                "Heat oil in a pan and sauté onions until golden. Add chicken, cook until browned. Remove chicken.",
+                "Add rice, stir to coat with oil. Pour in broth, bring to boil. Simmer until rice is tender.",
+                "Add seafood, cover, and cook until done. Serve hot, garnished with parsley and lemon wedges."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "1",
+                    "name": "Rice",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "2",
+                    "name": "Chicken",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "3",
+                    "name": "Seafood",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Spanish",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 40
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "imageUrl": "/spaghetti-carbonara.jpg",
+            "ID": "2",
+            "description": "Spaghetti Carbonara is a classic Italian pasta dish made with eggs, cheese, and pancetta. Known for its creamy texture and savory flavor, it is a favorite comfort food. Quick and easy to prepare, it's perfect for a delicious meal anytime.",
+            "instructions": [
+                "Cook spaghetti according to package instructions. Drain and set aside.",
+                "In a pan, cook pancetta until crispy. Beat eggs in a bowl, mix in grated cheese.",
+                "Combine spaghetti, pancetta, and egg mixture. Serve immediately with extra cheese on top."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "6",
+                    "name": "Spaghetti",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "7",
+                    "name": "Pancetta",
+                    "amount": 100,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "9",
+                    "name": "Parmesan cheese",
+                    "amount": 50,
+                    "unit": "g",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Italian",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 20
+        },
+        {
+            "name": "Tortilla Española",
+            "imageUrl": "/tortilla.jpg",
+            "ID": "3",
+            "category": "Main Course - Traditional Spanish Cuisine",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 20,
+            "description": "A classic Spanish omelette made with potatoes and onions, known for its simplicity and delicious taste. Perfect for any meal of the day, this dish is a staple in Spanish cuisine and loved by many for its rich flavor and satisfying texture.",
+            "instructions": [
+                "Thinly slice the potatoes and onions. Ensure the slices are even for uniform cooking.",
+                "Heat olive oil in a large frying pan over medium heat. Add the sliced potatoes and onions, and cook until they are soft and slightly golden, stirring occasionally to prevent sticking.",
+                "In a large bowl, beat the eggs and season with salt and pepper. Once the potatoes and onions are cooked, drain them and add to the beaten eggs. Mix well to combine.",
+                "Return the mixture to the frying pan and cook over low heat. Allow the eggs to set around the edges, then gently shake the pan to ensure the tortilla doesn't stick.",
+                "Once the bottom is set, place a large plate over the pan and carefully flip the tortilla onto the plate. Slide the tortilla back into the pan to cook the other side until golden brown and fully set.",
+                "Remove from the pan and let it cool slightly before slicing. Serve warm or at room temperature."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "10",
+                    "name": "Potatoes",
+                    "amount": 3,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Margherita Pizza",
+            "imageUrl": "/margherita.jpg",
+            "ID": "4",
+            "description": "Margherita Pizza is a simple Italian pizza topped with tomatoes, mozzarella, and fresh basil.",
+            "instructions": [
+                "Preheat the oven to 475°F (245°C). Roll out the pizza dough on a floured surface to your desired thickness.",
+                "Spread a thin layer of tomato sauce over the dough, leaving a small border around the edges. Add slices of mozzarella cheese evenly over the sauce.",
+                "Bake the pizza in the preheated oven for about 10-15 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.",
+                "Remove the pizza from the oven and immediately add fresh basil leaves on top. Let the pizza cool for a few minutes before slicing and serving.",
+                "Enjoy your homemade Margherita Pizza with a drizzle of olive oil or a sprinkle of grated Parmesan cheese, if desired."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "12",
+                    "name": "Pizza dough",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "13",
+                    "name": "Tomato sauce",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "14",
+                    "name": "Mozzarella cheese",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "15",
+                    "name": "Basil leaves",
+                    "amount": 10,
+                    "unit": "",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Italian",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 15
+        },
+        {
+            "name": "Gazpacho",
+            "imageUrl": "/gazpacho.jpg",
+            "ID": "5",
+            "description": "Gazpacho is a cold Spanish soup made from tomatoes, cucumber, bell pepper, and onion.",
+            "instructions": [
+                "Chop tomatoes, cucumber, bell pepper, and onion into small pieces. Place them in a blender or food processor.",
+                "Add garlic and olive oil to the blender. Blend until smooth, adding a bit of water if needed to reach your desired consistency.",
+                "Season the soup with salt and vinegar to taste. Blend again to mix the seasoning evenly throughout the soup.",
+                "Pour the gazpacho into a large bowl or pitcher. Chill in the refrigerator for at least 2 hours before serving to allow the flavors to meld.",
+                "Serve the gazpacho cold, garnished with a drizzle of olive oil and a sprinkle of chopped herbs or croutons, if desired."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 5,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "17",
+                    "name": "Cucumber",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "18",
+                    "name": "Bell pepper",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "20",
+                    "name": "Vinegar",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                }
+            ],
+            "category": "Appetizer - Spanish",
+            "difficulty": 1,
+            "timePreparation": 15,
+            "timeCooking": 0
+        },
+        {
+            "name": "Risotto alla Milanese",
+            "imageUrl": "/risotto.jpg",
+            "ID": "6",
+            "category": "Main Course - Traditional Italian Cuisine",
+            "difficulty": 3,
+            "timePreparation": 10,
+            "timeCooking": 25,
+            "description": "An Italian risotto flavored with saffron, offering a rich and creamy texture. This classic dish from Milan is known for its vibrant yellow color and delicate flavor, making it a favorite among Italian cuisine enthusiasts.",
+            "instructions": [
+                "Heat the broth in a pot and keep it warm over low heat.",
+                "In a large pan, sauté the finely chopped onion in butter until it becomes soft and translucent.",
+                "Add the risotto rice to the pan and cook for a few minutes until the rice is slightly translucent, stirring constantly.",
+                "Gradually add the warm broth to the rice, one ladle at a time, stirring continuously. Allow the liquid to be absorbed before adding more broth.",
+                "After about 15 minutes, add the saffron to the rice and continue to cook, adding broth as needed, until the rice is creamy and cooked through.",
+                "Stir in the grated Parmesan cheese and adjust the seasoning with salt and pepper before serving."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "21",
+                    "name": "Risotto rice",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "22",
+                    "name": "Butter",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "23",
+                    "name": "Saffron",
+                    "amount": 1,
+                    "unit": "pinch",
+                    "checked": false
+                },
+                {
+                    "ID": "9",
+                    "name": "Parmesan cheese",
+                    "amount": 50,
+                    "unit": "g",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Croquetas",
+            "imageUrl": "/croquetas.jpg",
+            "ID": "7",
+            "category": "Appetizer - Spanish Cuisine",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 15,
+            "description": "Spanish croquettes filled with ham, featuring a creamy interior and a crispy exterior. These delightful bites are perfect as an appetizer or snack, showcasing the rich flavors of Spanish cuisine.",
+            "instructions": [
+                "Melt the butter in a pan over medium heat and add the flour to make a roux. Cook for a few minutes until the mixture is golden brown.",
+                "Slowly add the milk to the roux, stirring constantly to avoid lumps. Continue to cook until the mixture thickens into a smooth béchamel sauce.",
+                "Add the diced ham to the sauce and mix well. Season with salt and pepper to taste.",
+                "Transfer the mixture to a shallow dish and let it cool completely in the refrigerator.",
+                "Once cooled, shape the mixture into small croquettes. Coat each croquette with breadcrumbs.",
+                "Heat oil in a frying pan and fry the croquettes until they are golden brown and crispy on all sides. Drain on paper towels before serving."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "22",
+                    "name": "Butter",
+                    "amount": 3,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "31",
+                    "name": "Flour",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "25",
+                    "name": "Milk",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "26",
+                    "name": "Ham",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "27",
+                    "name": "Breadcrumbs",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Caprese Salad",
+            "imageUrl": "/caprese.jpg",
+            "ID": "8",
+            "category": "Salad - Italian Cuisine",
+            "difficulty": 1,
+            "timePreparation": 10,
+            "timeCooking": 0,
+            "description": "A simple and refreshing Italian salad made with ripe tomatoes, fresh mozzarella, and fragrant basil leaves. Drizzled with olive oil and balsamic vinegar, this salad is a perfect appetizer or side dish that highlights the flavors of fresh ingredients.",
+            "instructions": [
+                "Slice the tomatoes and mozzarella cheese into even slices.",
+                "Arrange the tomato and mozzarella slices alternately on a serving plate.",
+                "Drizzle the salad with olive oil and balsamic vinegar.",
+                "Add fresh basil leaves on top and season with salt and pepper to taste.",
+                "Serve immediately as a refreshing appetizer or side dish."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 3,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "14",
+                    "name": "Mozzarella cheese",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "28",
+                    "name": "Balsamic vinegar",
+                    "amount": 1,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "15",
+                    "name": "Basil leaves",
+                    "amount": 10,
+                    "unit": "",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Patatas Bravas",
+            "imageUrl": "/patatas.jpg",
+            "ID": "9",
+            "category": "Appetizer - Spanish Cuisine",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 20,
+            "description": "Crispy fried potatoes served with a spicy tomato sauce, a popular Spanish tapa. The combination of crunchy potatoes and the bold, flavorful sauce makes this dish a favorite in Spanish cuisine.",
+            "instructions": [
+                "Peel and dice the potatoes into bite-sized pieces.",
+                "Heat olive oil in a frying pan and fry the potatoes until they are crispy and golden brown. Drain on paper towels.",
+                "In a separate pan, prepare the spicy tomato sauce by sautéing minced garlic in olive oil. Add paprika and tomato sauce, and cook until the sauce thickens.",
+                "Serve the fried potatoes with the spicy tomato sauce drizzled on top.",
+                "Garnish with chopped parsley if desired."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "10",
+                    "name": "Potatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "29",
+                    "name": "Paprika",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "13",
+                    "name": "Tomato sauce",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Bruschetta",
+            "imageUrl": "/bruschetta.jpg",
+            "ID": "10",
+            "category": "Appetizer - Italian Cuisine",
+            "difficulty": 1,
+            "timePreparation": 10,
+            "timeCooking": 5,
+            "description": "A classic Italian appetizer featuring a flavorful mix of tomatoes, basil, and garlic on toasted bread. This simple yet delicious dish is perfect for any occasion, offering a burst of fresh flavors with every bite.",
+            "instructions": [
+                "Chop the tomatoes into small cubes and mix with finely chopped basil and minced garlic.",
+                "Season the tomato mixture with olive oil, salt, and pepper to taste. Let it sit for a few minutes to allow the flavors to meld.",
+                "Toast slices of bread until they are golden brown and crispy.",
+                "Top each slice of toasted bread with a generous spoonful of the tomato mixture. Serve immediately and enjoy."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "15",
+                    "name": "Basil leaves",
+                    "amount": 10,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "30",
+                    "name": "Bread",
+                    "amount": 4,
+                    "unit": "slices",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Churros",
+            "imageUrl": "/churros.jpg",
+            "ID": "11",
+            "category": "Dessert - Spanish Cuisine",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 10,
+            "description": "A popular Spanish fried dough pastry, churros are crispy on the outside and soft on the inside. Often enjoyed with a dusting of cinnamon sugar, these delightful treats are perfect for satisfying your sweet tooth.",
+            "instructions": [
+                "In a saucepan, bring water, salt, and olive oil to a boil.",
+                "Reduce the heat and add the flour, stirring vigorously until a smooth dough forms.",
+                "Transfer the dough to a piping bag fitted with a star tip.",
+                "Heat oil in a deep frying pan. Pipe the dough into the hot oil, cutting it into desired lengths.",
+                "Fry the churros until they are golden brown and crispy. Remove from the oil and drain on paper towels.",
+                "Roll the churros in cinnamon sugar while they are still warm. Serve immediately."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "31",
+                    "name": "Flour",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "32",
+                    "name": "Water",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "34",
+                    "name": "Cinnamon sugar",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Tiramisu",
+            "imageUrl": "/tiramisu.jpg",
+            "ID": "12",
+            "category": "Dessert - Italian Cuisine",
+            "difficulty": 3,
+            "timePreparation": 30,
+            "timeCooking": 0,
+            "description": "An iconic Italian dessert made of coffee-soaked ladyfingers layered with a rich mascarpone mixture. This creamy and indulgent treat is perfect for special occasions and is sure to impress your guests.",
+            "instructions": [
+                "In a bowl, beat the egg yolks with sugar until the mixture is thick and pale.",
+                "Gently fold in the mascarpone cheese and whipped cream until well combined.",
+                "Dip each ladyfinger into the coffee, ensuring they are soaked but not soggy.",
+                "Layer the soaked ladyfingers in a serving dish, followed by a layer of the mascarpone mixture. Repeat the layers until all ingredients are used.",
+                "Refrigerate the tiramisu for at least 4 hours, or overnight, to allow the flavors to meld. Serve chilled."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "35",
+                    "name": "Egg yolks",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "36",
+                    "name": "Sugar",
+                    "amount": 100,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "37",
+                    "name": "Mascarpone cheese",
+                    "amount": 250,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "38",
+                    "name": "Whipped cream",
+                    "amount": 200,
+                    "unit": "ml",
+                    "checked": false
+                },
+                {
+                    "ID": "39",
+                    "name": "Ladyfingers",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "40",
+                    "name": "Coffee",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Fideuà",
+            "imageUrl": "/fideua.jpg",
+            "ID": "13",
+            "category": "Main Course - Spanish Cuisine",
+            "difficulty": 3,
+            "timePreparation": 15,
+            "timeCooking": 30,
+            "description": "A traditional Spanish dish similar to paella but made with pasta instead of rice. Fideuà is packed with seafood and rich flavors, making it a delightful and hearty meal.",
+            "instructions": [
+                "Heat olive oil in a large pan and sauté finely chopped onions and minced garlic until fragrant.",
+                "Add the seafood to the pan and cook until it is just done. Remove the seafood and set aside.",
+                "Add the pasta to the pan and stir well to coat it with the oil and flavors.",
+                "Pour in the broth and bring to a simmer. Cook the pasta until it is tender and has absorbed most of the liquid.",
+                "Return the seafood to the pan and mix gently. Cook for a few more minutes to heat through.",
+                "Serve the fideuà with a squeeze of fresh lemon juice on top."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "41",
+                    "name": "Pasta",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "3",
+                    "name": "Seafood",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "42",
+                    "name": "Lemon",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "name": "Ratatouille",
+            "imageUrl": "/ratatouille.jpg",
+            "ID": "14",
+            "description": "Ratatouille is a classic French Provençal dish made from a variety of vegetables. This dish features a colorful mix of tomatoes, zucchini, eggplant, and bell peppers, all seasoned and baked to perfection. It embodies the flavors of southern France and is a great option for a healthy meal.",
+            "instructions": [
+                "Preheat oven to 375°F (190°C). Slice vegetables into thin rounds.",
+                "Arrange vegetables in a baking dish, layering them in a circular pattern.",
+                "Drizzle with olive oil, and season generously with salt and pepper.",
+                "Bake for about 45 minutes, or until vegetables are tender and slightly caramelized."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 3,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "43",
+                    "name": "Zucchini",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "44",
+                    "name": "Eggplant",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "18",
+                    "name": "Bell pepper",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 3,
+                    "unit": "tbsp",
+                    "checked": false
+                }
+            ],
+            "category": "Vegetarian - French",
+            "difficulty": 2,
+            "timePreparation": 20,
+            "timeCooking": 45
+        },
+        {
+            "name": "Arroz con Pollo",
+            "imageUrl": "/arroz_con_pollo.jpg",
+            "ID": "15",
+            "description": "Arroz con Pollo is a traditional Spanish and Latin American dish combining rice and chicken with vegetables. This comforting meal is cooked in a single pot, blending flavors from tender chicken, sautéed vegetables, and aromatic spices for a hearty and satisfying dish.",
+            "instructions": [
+                "In a large pot, brown chicken pieces in oil over medium heat. Remove and set aside.",
+                "In the same pot, add chopped vegetables and sauté until soft and fragrant.",
+                "Stir in rice, coating it with the oil and vegetables. Return the chicken to the pot.",
+                "Add broth, bring to a boil, then reduce heat and simmer until the rice is fully cooked and the chicken is tender."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "2",
+                    "name": "Chicken",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "1",
+                    "name": "Rice",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "18",
+                    "name": "Bell pepper",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "45",
+                    "name": "Peas",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Spanish",
+            "difficulty": 3,
+            "timePreparation": 15,
+            "timeCooking": 35
+        },
+        {
+            "name": "Panna Cotta",
+            "imageUrl": "/panna_cotta.jpg",
+            "ID": "16",
+            "description": "Panna Cotta is a delightful Italian dessert made from sweetened cream thickened with gelatin. This creamy, smooth dessert is served chilled and often topped with a fresh fruit sauce, making it a perfect end to any meal.",
+            "instructions": [
+                "In a saucepan, heat cream, sugar, and vanilla until sugar dissolves and mixture is warm.",
+                "Dissolve gelatin in cold water and mix into the cream until fully incorporated.",
+                "Pour the mixture into molds and refrigerate for at least 4 hours or until set.",
+                "Serve chilled, topped with fruit sauce or berries."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "46",
+                    "name": "Heavy cream",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "36",
+                    "name": "Sugar",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "47",
+                    "name": "Vanilla extract",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "48",
+                    "name": "Gelatin",
+                    "amount": 1,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "49",
+                    "name": "Fruit sauce",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "Dessert - Italian",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 5
+        },
+        {
+            "name": "Pa Amb Tomàquet",
+            "imageUrl": "/pa_amb_tomaquet.jpg",
+            "ID": "17",
+            "description": "Pa Amb Tomàquet is a traditional Catalan dish featuring toasted bread rubbed with ripe tomatoes and garlic. This simple yet flavorful appetizer is typically drizzled with olive oil and seasoned with salt, capturing the essence of Mediterranean cuisine.",
+            "instructions": [
+                "Toast slices of bread until they are golden brown and crisp.",
+                "Rub each slice with a clove of garlic for added flavor.",
+                "Cut ripe tomatoes in half and rub them over the bread, ensuring an even layer.",
+                "Drizzle with olive oil, season with salt, and serve immediately."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "30",
+                    "name": "Bread",
+                    "amount": 4,
+                    "unit": "slices",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Appetizer - Catalan",
+            "difficulty": 1,
+            "timePreparation": 10,
+            "timeCooking": 5
+        },
+        {
+            "name": "Cannoli",
+            "imageUrl": "/cannoli.jpg",
+            "ID": "18",
+            "description": "Cannoli are classic Sicilian pastries filled with a sweet ricotta cheese mixture. The crisp, tube-shaped shells are stuffed with a creamy filling, often garnished with chocolate chips or candied fruit for an extra touch of sweetness.",
+            "instructions": [
+                "Combine ricotta cheese with powdered sugar and vanilla extract until smooth and creamy.",
+                "Carefully fill each cannoli shell with the ricotta mixture using a piping bag.",
+                "Sprinkle the filled cannoli with chocolate chips or chopped pistachios, as desired.",
+                "Serve immediately for the best texture or chill briefly before serving."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "50",
+                    "name": "Ricotta cheese",
+                    "amount": 250,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "51",
+                    "name": "Powdered sugar",
+                    "amount": 100,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "47",
+                    "name": "Vanilla extract",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "52",
+                    "name": "Cannoli shells",
+                    "amount": 10,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "53",
+                    "name": "Chocolate chips",
+                    "amount": 50,
+                    "unit": "g",
+                    "checked": false
+                }
+            ],
+            "category": "Dessert - Sicilian",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 10
+        },
+
+        {
+            "name": "Frittata",
+            "imageUrl": "/frittata.jpg",
+            "ID": "20",
+            "description": "Frittata is an Italian egg-based dish that’s similar to an omelette. It's made by mixing beaten eggs with cheese and vegetables, then cooking until set. The result is a versatile, hearty meal that can be enjoyed warm or at room temperature.",
+            "instructions": [
+                "Whisk eggs in a bowl and mix in cheese and your choice of vegetables.",
+                "Heat a skillet over medium heat and pour in the egg mixture. Cook until the bottom is set.",
+                "Carefully flip the frittata to cook the other side until golden brown.",
+                "Slice and serve warm or at room temperature."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "9",
+                    "name": "Parmesan cheese",
+                    "amount": 50,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "18",
+                    "name": "Bell pepper",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "43",
+                    "name": "Zucchini",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Italian",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 20
+        },
+        {
+            "name": "Sopa de Ajo",
+            "imageUrl": "/sopa_de_ajo.jpg",
+            "ID": "21",
+            "description": "Sopa de Ajo is a traditional Spanish garlic soup known for its robust flavor and warming qualities. Made with garlic, bread, and broth, this soup often includes poached eggs, adding richness and making it a comforting choice for cold weather.",
+            "instructions": [
+                "Sauté garlic in olive oil until it turns golden brown and fragrant.",
+                "Add bread cubes to the pot and cook until they become crispy and golden.",
+                "Pour in the broth and bring the mixture to a simmer. Cook for about 10 minutes.",
+                "Add poached eggs just before serving to enhance the soup's richness."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 10,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 3,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "30",
+                    "name": "Bread",
+                    "amount": 4,
+                    "unit": "slices",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                }
+            ],
+            "category": "Soup - Spanish",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 20
+        },
+        {
+            "name": "Pisto",
+            "imageUrl": "/pisto.jpg",
+            "ID": "22",
+            "description": "Pisto is a classic Spanish ratatouille-like dish featuring a medley of sautéed vegetables including tomatoes, bell peppers, onions, and zucchini. It is typically garnished with a fried egg and served warm.",
+            "instructions": [
+                "Heat a generous amount of olive oil in a large skillet over medium heat.",
+                "Add finely chopped onions and garlic, cooking until translucent and fragrant.",
+                "Stir in diced bell peppers and zucchini, cooking until they begin to soften.",
+                "Add chopped tomatoes and let the mixture simmer until all vegetables are tender and flavors meld together.",
+                "Season with salt and black pepper to taste.",
+                "Serve hot, topped with a fried egg if desired."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "18",
+                    "name": "Bell pepper",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "43",
+                    "name": "Zucchini",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "55",
+                    "name": "Black pepper",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Spanish",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 30
+        },
+        {
+            "name": "Minestrone",
+            "imageUrl": "/minestrone.jpg",
+            "ID": "23",
+            "description": "Minestrone is a rich Italian vegetable soup brimming with seasonal veggies like carrots, celery, and tomatoes. It also includes beans and pasta, creating a hearty and satisfying meal that's perfect for any time of the year.",
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat and sauté chopped onions, carrots, and celery until softened.",
+                "Add diced tomatoes, beans, and vegetable broth, bringing to a boil.",
+                "Reduce heat and simmer until vegetables are tender and flavors have melded together.",
+                "Stir in pasta and cook until tender, about 10 minutes.",
+                "Season with salt and black pepper to taste before serving."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "56",
+                    "name": "Carrots",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "57",
+                    "name": "Celery",
+                    "amount": 2,
+                    "unit": "stalks",
+                    "checked": false
+                },
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "58",
+                    "name": "Beans",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "41",
+                    "name": "Pasta",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "55",
+                    "name": "Black pepper",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Soup - Italian",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 40
+        },
+        {
+            "name": "Albondigas",
+            "imageUrl": "/albondigas.jpg",
+            "ID": "24",
+            "description": "Albondigas are savory Spanish meatballs typically cooked in a rich tomato sauce. They are made from ground beef mixed with breadcrumbs and spices, resulting in tender and flavorful meatballs that are simmered in a flavorful tomato sauce.",
+            "instructions": [
+                "In a bowl, combine ground beef with breadcrumbs, a beaten egg, and a blend of spices.",
+                "Shape the mixture into small meatballs and fry them in a hot skillet with olive oil until browned on all sides.",
+                "Remove meatballs from the skillet and set aside.",
+                "In the same skillet, pour in tomato sauce and bring to a simmer.",
+                "Return meatballs to the skillet and cook in the sauce until cooked through and flavors are well combined."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "59",
+                    "name": "Ground beef",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "27",
+                    "name": "Breadcrumbs",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "60",
+                    "name": "Spices",
+                    "amount": 2,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "13",
+                    "name": "Tomato sauce",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Spanish",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 40
+        },
+        {
+            "name": "Ribollita",
+            "imageUrl": "/ribollita.jpg",
+            "ID": "25",
+            "description": "Ribollita is a classic Tuscan soup made with stale bread and a variety of vegetables. This traditional dish combines hearty beans, kale, and vegetables in a savory broth, with the bread adding a unique texture and depth of flavor.",
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat and sauté chopped onions, carrots, and celery until softened.",
+                "Add chopped kale, beans, and diced tomatoes to the pot, stirring to combine.",
+                "Pour in vegetable broth and bring to a boil.",
+                "Reduce heat and let the soup simmer until vegetables and kale are tender.",
+                "Stir in cubes of stale bread and cook until the bread absorbs some of the broth and softens.",
+                "Season with salt and black pepper to taste before serving."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "56",
+                    "name": "Carrots",
+                    "amount": 2,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "57",
+                    "name": "Celery",
+                    "amount": 2,
+                    "unit": "stalks",
+                    "checked": false
+                },
+                {
+                    "ID": "61",
+                    "name": "Kale",
+                    "amount": 1,
+                    "unit": "bunch",
+                    "checked": false
+                },
+                {
+                    "ID": "58",
+                    "name": "Beans",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "16",
+                    "name": "Tomatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "30",
+                    "name": "Bread",
+                    "amount": 2,
+                    "unit": "slices",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Broth",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "55",
+                    "name": "Black pepper",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Soup - Italian",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 45
+        },
+        {
+            "name": "Gnocchi",
+            "imageUrl": "/gnocchi.jpg",
+            "ID": "27",
+            "description": "Gnocchi are Italian potato dumplings known for their light, fluffy texture. Made from a mixture of mashed potatoes, flour, and egg, these tender dumplings are typically served with a variety of sauces such as marinara or sage butter.",
+            "instructions": [
+                "Boil potatoes until tender, then drain and mash them until smooth.",
+                "In a large bowl, combine mashed potatoes with flour and egg to form a soft dough.",
+                "Divide dough into small portions and roll each portion into ropes.",
+                "Cut the ropes into small pieces to form individual gnocchi.",
+                "Boil the gnocchi in salted water until they float to the surface, indicating they are cooked.",
+                "Serve with your favorite sauce."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "10",
+                    "name": "Potatoes",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "31",
+                    "name": "Flour",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "8",
+                    "name": "Eggs",
+                    "amount": 1,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "63",
+                    "name": "Sauce",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "Main Course - Italian",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 30
+        },
+        {
+            "name": "Zabaglione",
+            "imageUrl": "/zabaglione.jpg",
+            "ID": "28",
+            "description": "Zabaglione is a luscious Italian dessert made with egg yolks, sugar, and Marsala wine. This creamy custard-like treat is traditionally served warm but can also be enjoyed chilled, making it a versatile and elegant choice for any occasion.",
+            "instructions": [
+                "In a mixing bowl, vigorously whisk together egg yolks and sugar until pale and creamy.",
+                "Place the bowl over a pot of simmering water, ensuring the bowl does not touch the water.",
+                "Slowly add Marsala wine to the mixture, continuing to whisk constantly until the custard thickens and becomes frothy.",
+                "Remove from heat and serve warm or chilled, garnished with fresh fruit or a sprinkle of cinnamon if desired."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "35",
+                    "name": "Egg yolks",
+                    "amount": 4,
+                    "unit": "",
+                    "checked": false
+                },
+                {
+                    "ID": "36",
+                    "name": "Sugar",
+                    "amount": 50,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "64",
+                    "name": "Marsala wine",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "Dessert - Italian",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 10
+        },
+        {
+            "name": "Polenta",
+            "imageUrl": "/polenta.jpg",
+            "ID": "29",
+            "description": "Polenta is a comforting Italian dish made from boiled cornmeal. The result is a creamy, slightly grainy base that can be served soft and warm or allowed to cool and slice into hearty pieces. It's a versatile side dish that complements many main courses.",
+            "instructions": [
+                "Bring water to a vigorous boil in a large pot and stir in salt.",
+                "Gradually add cornmeal to the boiling water while stirring continuously to avoid lumps.",
+                "Reduce heat and cook the mixture, stirring often, until it thickens and pulls away from the sides of the pot.",
+                "Serve hot as a creamy side dish, or let it cool, slice, and grill or fry for a firmer texture."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "65",
+                    "name": "Cornmeal",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "32",
+                    "name": "Water",
+                    "amount": 2,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Side Dish - Italian",
+            "difficulty": 1,
+            "timePreparation": 5,
+            "timeCooking": 20
+        },
+        {
+            "name": "Pimientos de Padrón",
+            "imageUrl": "/pimientos.jpg",
+            "ID": "30",
+            "description": "Pimientos de Padrón are a popular Spanish tapas dish featuring small green peppers that are fried until blistered and then seasoned with coarse salt. The mild heat of these peppers makes them an addictive snack or appetizer.",
+            "instructions": [
+                "Heat olive oil in a frying pan over medium-high heat.",
+                "Add Padrón peppers and fry them, turning occasionally, until the skins are blistered and slightly charred.",
+                "Remove peppers from the pan and transfer to a serving dish.",
+                "Sprinkle with coarse salt and serve immediately while still warm."
+            ],
+            "servings": 1,
+            "ingredients": [
+                {
+                    "ID": "66",
+                    "name": "Padrón peppers",
+                    "amount": 100,
+                    "unit": "g",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 1,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 0.5,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Appetizer - Spanish",
+            "difficulty": 1,
+            "timePreparation": 5,
+            "timeCooking": 10
+        },
+
+    {
+        "name": "Osso Buco",
+        "imageUrl": "/osso_buco.jpg",
+        "ID": "31",
+        "description": "Italian braised veal shanks with vegetables. This dish features tender veal shanks slow-cooked with onions, carrots, celery, and tomatoes, resulting in a rich and flavorful meal.",
+        "instructions": [
+            "Sear veal shanks in a hot pan until browned on all sides.",
+            "Sauté onions, carrots, and celery in the same pan until they start to soften.",
+            "Add tomatoes and broth, then return the veal shanks to the pan.",
+            "Simmer the mixture until the veal shanks are tender and the flavors have melded together."
+        ],
+        "servings": 1,
+        "ingredients": [
+            {
+                "ID": "67",
+                "name": "Veal shanks",
+                "amount": 2,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "5",
+                "name": "Onion",
+                "amount": 1,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "56",
+                "name": "Carrots",
+                "amount": 2,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "57",
+                "name": "Celery",
+                "amount": 2,
+                "unit": "stalks",
+                "checked": false
+            },
+            {
+                "ID": "16",
+                "name": "Tomatoes",
+                "amount": 4,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "4",
+                "name": "Broth",
+                "amount": 4,
+                "unit": "cup",
+                "checked": false
+            }
+        ],
+        "category": "Main Course - Italian",
+        "difficulty": 3,
+        "timePreparation": 20,
+        "timeCooking": 90
+    },
+    {
+        "name": "Cozido à Portuguesa",
+        "imageUrl": "/cozido.jpg",
+        "ID": "32",
+        "description": "Portuguese boiled dinner featuring various meats and vegetables. This hearty dish combines chicken, chorizo, ground beef, and an assortment of vegetables, cooked together to create a flavorful and filling meal.",
+        "instructions": [
+            "In a large pot, boil chicken, chorizo, and ground beef until cooked through.",
+            "Add potatoes, carrots, celery, kale, and simmer until all ingredients are tender.",
+            "Serve hot with the flavorful broth."
+        ],
+        "servings": 1,
+        "ingredients": [
+            {
+                "ID": "2",
+                "name": "Chicken",
+                "amount": 1,
+                "unit": "lb",
+                "checked": false
+            },
+            {
+                "ID": "54",
+                "name": "Chorizo",
+                "amount": 200,
+                "unit": "g",
+                "checked": false
+            },
+            {
+                "ID": "59",
+                "name": "Ground beef",
+                "amount": 1,
+                "unit": "lb",
+                "checked": false
+            },
+            {
+                "ID": "10",
+                "name": "Potatoes",
+                "amount": 4,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "56",
+                "name": "Carrots",
+                "amount": 2,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "57",
+                "name": "Celery",
+                "amount": 2,
+                "unit": "stalks",
+                "checked": false
+            },
+            {
+                "ID": "61",
+                "name": "Kale",
+                "amount": 1,
+                "unit": "bunch",
+                "checked": false
+            },
+            {
+                "ID": "4",
+                "name": "Broth",
+                "amount": 4,
+                "unit": "cup",
+                "checked": false
+            }
+        ],
+        "category": "Main Course - Portuguese",
+        "difficulty": 2,
+        "timePreparation": 30,
+        "timeCooking": 60
+    },
+    {
+        "name": "Espinacas con Garbanzos",
+        "imageUrl": "/espinacas_garbanzos.jpg",
+        "ID": "33",
+        "description": "Spanish dish combining spinach and chickpeas. This flavorful and nutritious dish features sautéed garlic and spinach mixed with hearty chickpeas, seasoned simply for a comforting meal.",
+        "instructions": [
+            "Sauté garlic in olive oil until golden brown.",
+            "Add spinach and cook until wilted.",
+            "Stir in chickpeas and cook until they are heated through.",
+            "Season with salt and black pepper before serving."
+        ],
+        "servings": 1,
+        "ingredients": [
+            {
+                "ID": "19",
+                "name": "Garlic",
+                "amount": 2,
+                "unit": "cloves",
+                "checked": false
+            },
+            {
+                "ID": "11",
+                "name": "Olive oil",
+                "amount": 3,
+                "unit": "tbsp",
+                "checked": false
+            },
+            {
+                "ID": "68",
+                "name": "Spinach",
+                "amount": 1,
+                "unit": "bunch",
+                "checked": false
+            },
+            {
+                "ID": "81",
+                "name": "Chickpeas",
+                "amount": 1,
+                "unit": "cup",
+                "checked": false
+            },
+            {
+                "ID": "33",
+                "name": "Salt",
+                "amount": 1,
+                "unit": "tsp",
+                "checked": false
+            },
+            {
+                "ID": "55",
+                "name": "Black pepper",
+                "amount": 1,
+                "unit": "tsp",
+                "checked": false
+            }
+        ],
+        "category": "Side Dish - Spanish",
+        "difficulty": 2,
+        "timePreparation": 10,
+        "timeCooking": 10
+    },
+
+    {
+        "name": "Pasta e Fagioli",
+        "imageUrl": "/pasta_fagioli.jpg",
+        "ID": "35",
+        "description": "An Italian soup made with pasta and beans. This hearty and comforting dish is a staple of Italian cuisine, featuring tender pasta and beans simmered in a savory tomato broth.",
+        "instructions": [
+            "Sauté onions, carrots, and celery in olive oil until soft.",
+            "Add tomatoes, beans, and broth and bring to a simmer.",
+            "Stir in pasta and cook until tender.",
+            "Season with salt and black pepper to taste before serving."
+        ],
+        "servings": 1,
+        "ingredients": [
+            {
+                "ID": "5",
+                "name": "Onion",
+                "amount": 1,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "56",
+                "name": "Carrots",
+                "amount": 2,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "57",
+                "name": "Celery",
+                "amount": 2,
+                "unit": "stalks",
+                "checked": false
+            },
+            {
+                "ID": "16",
+                "name": "Tomatoes",
+                "amount": 4,
+                "unit": "",
+                "checked": false
+            },
+            {
+                "ID": "81",
+                "name": "Chickpeas",
+                "amount": 1,
+                "unit": "cup",
+                "checked": false
+            },
+            {
+                "ID": "50",
+                "name": "Pasta",
+                "amount": 1,
+                "unit": "cup",
+                "checked": false
+            },
+            {
+                "ID": "4",
+                "name": "Broth",
+                "amount": 4,
+                "unit": "cup",
+                "checked": false
+            }
+        ],
+        "category": "Soup - Italian",
+        "difficulty": 2,
+        "timePreparation": 15,
+        "timeCooking": 30
+    },
+  
+
+        {
+            "name": "Pollo al Ajillo",
+            "imageUrl": "/pollo_al_ajillo.jpg",
+            "ID": "37",
+            "description": "Spanish garlic chicken.",
+            "instructions": [
+                "Brown chicken in a pan with olive oil.",
+                "Add garlic and cook until golden.",
+                "Add white wine and simmer until chicken is cooked through.",
+                "Season with salt and pepper before serving."
+            ],
+            "servings": 4,
+            "ingredients": [
+                {
+                    "ID": "2",
+                    "name": "Chicken",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 6,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "69",
+                    "name": "White wine",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "33",
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                },
+                {
+                    "ID": "55",
+                    "name": "Black pepper",
+                    "amount": 1,
+                    "unit": "tsp",
+                    "checked": false
+                }
+            ],
+            "category": "Spanish Main Dish",
+            "difficulty": 2,
+            "timePreparation": 10,
+            "timeCooking": 25
+        },
+
+
+        {
+            "name": "Shrimp Scampi",
+            "imageUrl": "/shrimp_scampi.jpg",
+            "ID": "40",
+            "description": "Italian-American dish with shrimp cooked in garlic, lemon, and white wine.",
+            "instructions": [
+                "Sauté garlic in olive oil and butter.",
+                "Add shrimp and cook until pink.",
+                "Add white wine, lemon juice, and parsley.",
+                "Serve over pasta."
+            ],
+            "servings": 4,
+            "ingredients": [
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 4,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "11",
+                    "name": "Olive oil",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "22",
+                    "name": "Butter",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "70",
+                    "name": "Shrimp",
+                    "amount": 1,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "69",
+                    "name": "White wine",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "71",
+                    "name": "Lemon juice",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "72",
+                    "name": "Parsley",
+                    "amount": 2,
+                    "unit": "tbsp",
+                    "checked": false
+                },
+                {
+                    "ID": "41",
+                    "name": "Pasta",
+                    "amount": 200,
+                    "unit": "g",
+                    "checked": false
+                }
+            ],
+            "category": "Italian Main Dish",
+            "difficulty": 2,
+            "timePreparation": 15,
+            "timeCooking": 15
+        },
+        {
+            "name": "Bouillabaisse",
+            "imageUrl": "/bouillabaisse.jpg",
+            "ID": "42",
+            "description": "A French seafood stew with tomatoes and saffron.",
+            "instructions": [
+                "Sauté onions, garlic, and leeks in olive oil.",
+                "Add tomatoes, saffron, and fish stock.",
+                "Simmer and add a mix of seafood (fish, mussels, shrimp).",
+                "Cook until seafood is cooked through."
+            ],
+            "servings": 4,
+            "ingredients": [
+                {
+                    "ID": "12",
+                    "name": "Fish",
+                    "amount": 0.5,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "70",
+                    "name": "Shrimp",
+                    "amount": 0.5,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "73",
+                    "name": "Mussels",
+                    "amount": 0.5,
+                    "unit": "lb",
+                    "checked": false
+                },
+                {
+                    "ID": "5",
+                    "name": "Onion",
+                    "amount": 1,
+                    "unit": "medium",
+                    "checked": false
+                },
+                {
+                    "ID": "19",
+                    "name": "Garlic",
+                    "amount": 2,
+                    "unit": "cloves",
+                    "checked": false
+                },
+                {
+                    "ID": "74",
+                    "name": "Leeks",
+                    "amount": 1,
+                    "unit": "medium",
+                    "checked": false
+                },
+                {
+                    "ID": "13",
+                    "name": "Tomato sauce",
+                    "amount": 1,
+                    "unit": "cup",
+                    "checked": false
+                },
+                {
+                    "ID": "23",
+                    "name": "Saffron",
+                    "amount": 1,
+                    "unit": "pinch",
+                    "checked": false
+                },
+                {
+                    "ID": "4",
+                    "name": "Fish stock",
+                    "amount": 4,
+                    "unit": "cup",
+                    "checked": false
+                }
+            ],
+            "category": "French Main Dish",
+            "difficulty": 3,
+            "timePreparation": 20,
+            "timeCooking": 45
+        }
+  
+    
+
+
+          
+        
+        
+        
+             
+               
+    ]
+}
