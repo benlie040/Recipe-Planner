@@ -3,9 +3,9 @@
 React application which helps you to plan your meals for every week by selecting a variety of recipes. I started this project to learn React & Typescript.
 
 ## Technologies Used
-- React https://react.dev/
-- TypeScript
-- MUI
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [MUI](https://mui.com/material-ui/)
 
 ## How to run the client
 
